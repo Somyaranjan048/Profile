@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Somya_Ranjan</h1>
 <h3 align="center">A passionate full Stack Web developer from India</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D5603AQFn7SKialP0wQ/profile-displayphoto-shrink_400_400/0/1691583864233?e=1697068800&v=beta&t=aFY3sXA7ZiV8_3rjheLNduXix29U2guQUC5uh0XYz38" alt="somyanjan048" /> </p>
+<p align="center"> <img src="https://media.licdn.com/dms/image/D5603AQFn7SKialP0wQ/profile-displayphoto-shrink_400_400/0/1691583864233?e=1697068800&v=beta&t=aFY3sXA7ZiV8_3rjheLNduXix29U2guQUC5uh0XYz38" alt="somyanjan048" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyanjan048" alt="somyanjan048" /></a> </p>-->
 
